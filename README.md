@@ -1,6 +1,3 @@
-# digitales1
-Trabajo práctico final
-
 Motivación 
 
 Aprender a configurar un FPGA mediante código VHDL. 
