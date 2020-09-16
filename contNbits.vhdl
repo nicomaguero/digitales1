@@ -1,4 +1,5 @@
 --Contador N-bits Digitales 1
+--
 --Fecha 14/9/20
 library IEEE;
 use IEEE.std_logic_1164.all;
